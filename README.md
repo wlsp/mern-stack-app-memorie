@@ -6,3 +6,4 @@ https://mern-stack-app-memos.netlify.app/
 * Backendhost: Heroku
 * Frontend: Netifly
 * Database: MongoDB
+* Resonsive WebDesign
