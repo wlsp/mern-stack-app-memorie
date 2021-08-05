@@ -2,5 +2,7 @@
 
 ##here you can take a look 🤓 :
 https://mern-stack-app-memos.netlify.app/
-Backendhost: Heroku
-Frontend: Netifly
+
+* Backendhost: Heroku
+* Frontend: Netifly
+* Database: MongoDB
